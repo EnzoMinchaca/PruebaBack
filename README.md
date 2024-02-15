@@ -1,6 +1,6 @@
 ENDPOINTS:
 
-#Para crear un usuario ejemplo
+#Para crear un usuario ejemplo \n
 POST: http://localhost:8080/auth
   {
       "email": "prueba@mail.com",
